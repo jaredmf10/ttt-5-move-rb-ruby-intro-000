@@ -18,4 +18,4 @@ index = input_to_index("")
 # call our #move method. Do so with the arguments of the board, the index the user wants to access and the default player of "X".
 move(board, 0, "X")
 # call display_board with player move
-display_board(move)
+
